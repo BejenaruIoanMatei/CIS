@@ -10,3 +10,7 @@ __pycache__/
 # Ignora fisierele de configurare ale sistemului
 .DS_Store
 Thumbs.db
+
+# Ignora dataset ul
+App/data/raw/2750
+!App/data/raw/

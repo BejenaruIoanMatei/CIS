@@ -1,0 +1,11 @@
+# used : pip freeze | grep -E "tensorflow|keras|numpy|matplotlib|opencv-python|pandas|scikit-learn|scipy" > requirements.txt
+# Pentru a instala toate dependintele : pip install -r requirements.txt
+
+keras==3.9.0
+matplotlib==3.10.1
+numpy==1.26.4
+opencv-python==4.11.0.86
+pandas==2.2.3
+scikit-learn==1.6.1
+scipy==1.15.2
+tensorflow==2.16.2
